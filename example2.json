@@ -6,13 +6,13 @@
   "graph" :[
   {
              "@type" : "cim:TopologicalNode" ,
-             "@id" : "all:TN1"
+             "@id" : "all:TN1",
              "cim:IdentifiedObject.mRID" : "TN1",
              "cim:TopologicalNode.Terminal" : "all:T11" 
   },
   {
              "@type" : "cim:Terminal",
-             "@id" : "all:T11"
+             "@id" : "all:T11",
              "cim:IdentifiedObject.mRID" : "T11",
              "cim:Terminal.Measurements" : []
   }
